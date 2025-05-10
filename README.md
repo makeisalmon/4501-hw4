@@ -1,0 +1,1 @@
+This program uses Python 3.12.1 and the networkx library. To run, ensure you have the correct version and library installed. Then, run `python sdn.py` in the command line within the root directory of the repository.
